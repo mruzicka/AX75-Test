@@ -1,0 +1,8 @@
+MIDlet-1: AX75 Test, , AX75Test
+MIDlet-Jar-Size: 11193
+MIDlet-Jar-URL: AX75 Test.jar
+MIDlet-Name: AX75 Test
+MIDlet-Vendor: MRuza
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
